@@ -52,8 +52,7 @@ banner_feature:
       develop Olympic hopefuls
   - name: Admission Now
     icon: ti-write
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore  dolore magna aliqua. Ut enim ad
+    content: Head to our contact page to apply for membership
 about:
   enable: true
   title: About Educenter
