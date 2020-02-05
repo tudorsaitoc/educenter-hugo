@@ -3,7 +3,7 @@ slider:
   enable: true
   bg_image: images/banner/banner-1.jpg
   slider_item:
-  - title: Your development is our mission
+  - title: Leveling up your fencing is our mission
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
       tempor incididunt ut labore et magna aliqua. Ut enim ad minim veniam, quis nostrud
       exer
@@ -13,7 +13,7 @@ slider:
       enable: true
       label: Apply now
       link: contact
-  - title: Leveling up your fencing is our mission
+  - title: Your development is our mission
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
       tempor incididunt ut labore et magna aliqua. Ut enim ad minim veniam, quis nostrud
       exer
