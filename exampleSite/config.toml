@@ -20,60 +20,70 @@ languageCode = "fr-fr"
 languageName = "Fr"
 weight = 2
 [[menu.footer]]
-URL = "team"
-name = "Team"
-[[menu.footer]]
-URL = "notice"
-name = "notice"
-[[menu.footer]]
-URL = "event"
-name = "event"
+URL = "research"
+name = "research"
+weight = 1
 [[menu.footer]]
 URL = "scholarship"
 name = "scholarship"
+weight = 2
 [[menu.footer]]
+URL = "event"
+name = "event"
+weight = 3
+[[menu.footer]]
+URL = "notice"
+name = "notice"
+weight = 4
+[[menu.footer]]
+URL = "teacher"
+name = "teacher"
+weight = 5
+[[menu.main]]
+URL = "scholarship"
+name = "scholarship"
+parent = "Pages"
+weight = 7
+[[menu.main]]
+URL = "event"
+name = "event"
+parent = "Pages"
+weight = 5
+[[menu.main]]
+URL = "notice"
+name = "notice"
+parent = "Pages"
+weight = 4
+[[menu.main]]
+URL = "teacher"
+name = "teacher"
+parent = "Pages"
+weight = 3
+[[menu.main]]
 URL = "research"
 name = "research"
+parent = "Pages"
+weight = 2
+[[menu.main]]
+URL = "contact"
+name = "Contact"
+weight = 10
+[[menu.main]]
+URL = "blog"
+name = "blog"
+weight = 9
+[[menu.main]]
+hasChildren = true
+name = "Pages"
+weight = 8
+[[menu.main]]
+URL = "course"
+name = "course"
+weight = 6
 [[menu.main]]
 URL = "about"
 name = "About"
 weight = 1
-[[menu.main]]
-URL = "course"
-name = "course"
-weight = 2
-[[menu.main]]
-hasChildren = true
-name = "Pages"
-weight = 3
-[[menu.main]]
-URL = "team"
-name = "Team"
-parent = "Pages"
-[[menu.main]]
-URL = "notice"
-name = "notice"
-parent = "Pages"
-[[menu.main]]
-URL = "event"
-name = "event"
-parent = "Pages"
-[[menu.main]]
-URL = "scholarship"
-name = "scholarship"
-parent = "Pages"
-[[menu.main]]
-URL = "research"
-name = "research"
-parent = "Pages"
-[[menu.main]]
-URL = "blog"
-name = "blog"
-weight = 4
-[[menu.main]]
-URL = "contact"
-name = "Contact"
-weight = 5
 [params]
 address = "807 W Lynn St APT 220"
 author = "Tudor Saitoc"
