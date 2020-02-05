@@ -39,16 +39,17 @@ banner_feature:
   feature_item:
   - name: Scholorship News
     icon: ti-book
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore  dolore magna aliqua. Ut enim ad
+    content: We care about our people and will be granting membership scholarship
+      to those who qualify
   - name: Our Notice Board
     icon: ti-blackboard
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore  dolore magna aliqua. Ut enim ad
+    content: Our upcoming inaugural development tournament is just around the corner.  Don't
+      forget to register on FRED
   - name: Our Achievements
     icon: ti-agenda
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore  dolore magna aliqua. Ut enim ad
+    content: By focusing on our classic technical fencing we've been able to improve
+      ratings from unclassified up to an A, leap across the national rankings and
+      develop Olympic hopefuls
   - name: Admission Now
     icon: ti-write
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
