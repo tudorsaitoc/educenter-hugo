@@ -47,8 +47,8 @@ hasChildren = true
 name = "Pages"
 weight = 3
 [[menu.main]]
-URL = "teacher"
-name = "teacher"
+URL = "team"
+name = "Team"
 parent = "Pages"
 [[menu.main]]
 URL = "notice"
