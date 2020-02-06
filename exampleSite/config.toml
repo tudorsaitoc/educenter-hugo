@@ -4,7 +4,7 @@ disqusShortname = ""
 paginate = "6"
 summaryLength = "10"
 theme = "educenter-hugo"
-title = "FDA@TEX | Fencing Development Academy at Texas"
+title = "Fencing Development Academy at Texas"
 [Languages.en]
 contentDir = "content/english"
 copyright = "Copyright &copy; 2020 a hugo theme by [themefisher](https://themefisher.com)"
