@@ -117,8 +117,8 @@ enable = true
 preloader = "images/preloader.gif"
 [params.subscription]
 enable = true
-mailchimp_form_action = "https://gmail.us4.list-manage.com/subscribe/post?u=463ee871f45d2d93748e77cad&amp;id=a0a2c6d074"
-mailchimp_form_name = "b_463ee871f45d2d93748e77cad_a0a2c6d074"
+mailchimp_form_action = "https://netlify.us4.list-manage.com/subscribe/post?u=bef40eba69ab060228c9497f6&amp;id=3285400c3e"
+mailchimp_form_name = "b_bef40eba69ab060228c9497f6_3285400c3e"
 [[params.social]]
 icon = "ti-facebook"
 link = "#"
