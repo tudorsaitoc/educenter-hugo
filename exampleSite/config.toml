@@ -1,7 +1,7 @@
 baseURL = "https://fda.netlify.com/"
 disableLanguages = []
 disqusShortname = ""
-paginate = "8"
+paginate = "6"
 summaryLength = "10"
 theme = "educenter-hugo"
 title = "Fencing Development Academy at Texas"
