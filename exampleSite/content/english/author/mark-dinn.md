@@ -5,10 +5,8 @@ description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do ei
   tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis
   nostrud.
 email: tudor@saitoc.me
-image: ''
+image: "/images/IMG_0094.jpeg"
 social:
-- icon: ti-twitter
-  link: "#tudorsaitoc"
 - icon: ti-linkedin
   link: "#tudorsaitoc"
 - icon: ti-instagram
