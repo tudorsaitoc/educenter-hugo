@@ -7,14 +7,14 @@ theme = "educenter-hugo"
 title = "Fencing Development Academy at Texas"
 [Languages.en]
 contentDir = "content/english"
-copyright = "Copyright &copy; 2020 a hugo theme by [themefisher](https://themefisher.com)"
+copyright = "Copyright &copy; 2020 by Tudor Saitoc"
 home = "Home"
 languageCode = "en-us"
 languageName = "En"
 weight = "1"
 [Languages.fr]
 contentDir = "content/french"
-copyright = "Copyright &copy; 2020 a hugo theme by [themefisher](https://themefisher.com)"
+copyright = "Copyright &copy; 2020 by Tudor Saitoc"
 home = "Accueil"
 languageCode = "fr-fr"
 languageName = "Fr"
@@ -78,11 +78,12 @@ weight = 5
 address = "807 W Lynn St APT 220"
 author = "Tudor Saitoc"
 contact_form_action = "#"
-description = "Fencing Development Academy at Texas"
+description = "DevelopFencing"
 email = "developfencing@gmail.com"
 google_analitycs_id = ""
 logo = "images/logo.png"
-mobile = "6315596551"
+mobile = "631.559.6551"
+social = []
 top_header = true
 [params.map]
 enable = false
@@ -119,11 +120,3 @@ preloader = "images/preloader.gif"
 enable = true
 mailchimp_form_action = "https://netlify.us4.list-manage.com/subscribe/post?u=bef40eba69ab060228c9497f6&amp;id=3285400c3e"
 mailchimp_form_name = "b_bef40eba69ab060228c9497f6_3285400c3e"
-[[params.social]]
-icon = "ti-facebook"
-link = "#"
-title = "facebook"
-[[params.social]]
-icon = "ti-instagram"
-link = "#"
-title = "instagram"
