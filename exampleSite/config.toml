@@ -20,9 +20,6 @@ languageCode = "fr-fr"
 languageName = "Fr"
 weight = 2
 [[menu.footer]]
-URL = "about"
-name = "Jeez"
-[[menu.footer]]
 URL = "teacher"
 name = "Team"
 [[menu.footer]]
@@ -37,10 +34,6 @@ name = "scholarship"
 [[menu.footer]]
 URL = "research"
 name = "research"
-[[menu.main]]
-URL = "about"
-name = "Jeez"
-weight = "6"
 [[menu.main]]
 URL = "about"
 name = "About"
@@ -86,13 +79,13 @@ address = "807 W Lynn St APT 220"
 author = "Tudor Saitoc"
 contact_form_action = "#"
 description = "Fencing Development Academy at Texas"
-email = "tudor@saitoc.me"
+email = "developfencing@gmail.com"
 google_analitycs_id = ""
 logo = "images/logo.png"
 mobile = "6315596551"
 top_header = true
 [params.map]
-enable = true
+enable = false
 gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyBu5nZKbeK-WHQ70oqOWo-_4VmwOwKP9YQ"
 map_latitude = "51.5223477"
 map_longitude = "-0.1622023"

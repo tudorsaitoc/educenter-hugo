@@ -89,14 +89,12 @@ event:
 funfacts:
   enable: true
   funfact_item:
-  - name: TEACHERS
-    count: "60"
-  - name: COURSES
-    count: "50"
-  - name: STUDENTS
-    count: "1000"
-  - name: SATISFIED CLIENT
-    count: "1400"
+  - name: Tournaments
+    count: "1"
+  - name: Clubs
+    count: "24"
+  - name: Fencers
+    count: "1127"
 blog:
-  enable: true
+  enable: false
   title: Latest News
