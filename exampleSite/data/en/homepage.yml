@@ -96,5 +96,5 @@ funfacts:
   - name: Fencers
     count: "1127"
 blog:
-  enable: false
+  enable: true
   title: Latest News
