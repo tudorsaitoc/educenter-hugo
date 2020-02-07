@@ -1,6 +1,6 @@
 ---
 title: "Inaugural DF Epee Developmental Tournament"
-date: 2020-02-23 T9:00:17+06:00
+date: 2020-02-23T9:00
 draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
@@ -11,30 +11,30 @@ image: "images/events/event-1.jpg"
 # location
 location: "UIW : San Antonio, TX"
 # entry fee
-fee: "From: $35"
+fee: "$35"
 # apply url
 apply_url : "https://askfred.net/Events/Prereg/prereg.php?tournament_id=46154"
 # event speaker
 speaker:
   # speaker loop
-  - name : "Jack Mastio"
+  - name : "John Moreau"
     image : "images/event-speakers/speaker-1.jpg"
-    designation : "Teacher"
+    designation : "Host"
 
   # speaker loop
-  - name : "John Doe"
+  - name : "Oscar Barrera"
     image : "images/event-speakers/speaker-2.jpg"
-    designation : "Teacher"
+    designation : "SOTXDIV Representative"
 
   # speaker loop
-  - name : "Randy Luis"
+  - name : "Gary Vanderwege"
     image : "images/event-speakers/speaker-3.jpg"
-    designation : "Teacher"
+    designation : "Referee Observation"
 
   # speaker loop
-  - name : "Alfred Jin"
+  - name : "Derrek White & Tudor Saitoc"
     image : "images/event-speakers/speaker-4.jpg"
-    designation : "Teacher"
+    designation : "Organizers"
 
 # type
 type: "event"
@@ -42,7 +42,6 @@ type: "event"
 
 ### About Event
 
-# Inaugural Developmental Epee Tournament
 
 *USA Fencing sanctioned developmental tournament.  Hosted by UIW.*
 
@@ -58,17 +57,15 @@ No registration at the door.
 
 **Fee:  $35.00
 
-Fencers must be 13 years of age to take part in this Open Tournament.
+### Notices
+- Fencers must be 13 years of age to take part in this Open Tournament.
+- Morning Session starts at 9 a.m. and ends at 12:00 noon.
+- Afternoon Sessions starts at 1 p.m. and ends at 4 p.m.
+- *!!! No rating, and no medals will be awarded. !!!!*
 
-Morning Session starts at 9 a.m. and ends at 12:00 noon.
-Afternoon Sessions starts at 1 p.m. and ends at 4 p.m.
 
-*!!! No rating, and no medals will be awarded. !!!!*
-
-Details below:
-
-- Morning session - fencers compete in 5 touch bouts
-- Afternoon session - fencers compete in 15 touch bouts
+Morning session**. Fencers compete in 5 touch bouts
+**Afternoon session**.  Fencers compete in 15 touch bouts
 
 The overall competitive atmosphere will be much like a tournament but with a focus on providing fencers with the most appropriate match-ups based on their skill level.
 
