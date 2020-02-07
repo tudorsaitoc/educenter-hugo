@@ -1,8 +1,7 @@
 ---
 title: Events
 bg_image: "/images/olympic-epee.jpg"
-description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-  tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis
-  nostrud.
+description: We facilitate the training and development of fencing at the highest
+  level.  You can find past and upcoming tournaments here.
 
 ---
