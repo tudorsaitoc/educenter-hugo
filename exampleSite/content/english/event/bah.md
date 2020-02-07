@@ -1,6 +1,6 @@
 ---
 title: "Inaugural DF Epee Developmental Tournament"
-date: 2020-02-23T9:00
+date: 2020-02-23T15:27:17+6:00
 draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
