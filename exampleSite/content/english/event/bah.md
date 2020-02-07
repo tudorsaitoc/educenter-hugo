@@ -47,25 +47,27 @@ type: "event"
 
 This unique and innovative tournament will provide fencers with the best developmental environment possible.
 
-Events Scheduled:
-- Mixed Epee
+### Events
+Mixed Epee
 
-Preregistration opens on 01/16/2020.
+Preregistration opens on 01/16/2020
+
 Preregistration closes on 02/19/2020.
-
-No registration at the door.
 
 **Fee:  $35.00
 
 ### Notices
-- Fencers must be 13 years of age to take part in this Open Tournament.
-- Morning Session starts at 9 a.m. and ends at 12:00 noon.
-- Afternoon Sessions starts at 1 p.m. and ends at 4 p.m.
-- *!!! No rating, and no medals will be awarded. !!!!*
+- Fencers must be 13 years of age to take part in this open tournament
+- Morning session starts at 9 AM and ends at 12 PM
+- Afternoon sessions starts at 1 PM and ends at 4 PM
+- This is strictly intended for training and development and no ratings or medals will be awarded
+- No registration will be accepted on site, please make sure to [register here](https://askfred.net/Events/moreInfo.php?tournament_id=46154 "Preregistration through AskFRED") ahead of time
 
+### Morning session 
+Fencers compete in 5 touch bouts
 
-Morning session**. Fencers compete in 5 touch bouts
-**Afternoon session**.  Fencers compete in 15 touch bouts
+### Afternoon session 
+Fencers compete in 15 touch bouts
 
 The overall competitive atmosphere will be much like a tournament but with a focus on providing fencers with the most appropriate match-ups based on their skill level.
 
