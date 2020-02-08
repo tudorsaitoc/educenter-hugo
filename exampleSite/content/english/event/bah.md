@@ -28,7 +28,7 @@ speaker:
 
   # speaker loop
   - name : "Gary Vanderwege"
-    image : "images/tmp/oscarb.jpg"
+    image : "images/tmp/garyvcrop.jpg"
     designation : "Referee Observation"
 
   # speaker loop
