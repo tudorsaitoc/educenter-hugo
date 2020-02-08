@@ -23,12 +23,12 @@ speaker:
 
   # speaker loop
   - name : "Oscar Barrera"
-    image : "images/tmp/ob.png"
+    image : "images/tmp/oscarb.jpg"
     designation : "SOTXDIV Representative"
 
   # speaker loop
   - name : "Gary Vanderwege"
-    image : "images/tmp/gv.jpg"
+    image : "images/tmp/gv.png"
     designation : "Referee Observation"
 
   # speaker loop
