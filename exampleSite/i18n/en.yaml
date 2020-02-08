@@ -5,7 +5,7 @@
   translation: Contact Form
 
 - id: send
-  translation: send message
+  translation: Send 
 
 - id: contact_info
   translation: Contact Info
@@ -37,7 +37,7 @@
 - id: posted_by
   translation: Posted by
 
-- id: date
+- id: dat
   translation: Date
 
 - id: time
@@ -46,7 +46,7 @@
 - id: category
   translation: Category
 
-- id: related_course
+- id: rel:ated_course
   translation: Related Course
 
 - id: duration
@@ -59,7 +59,7 @@
   translation: fee
 
 - id: teacher
-  translation: teacher
+  translation: Team 
 
 - id: location
   translation: location
@@ -68,7 +68,7 @@
   translation: entry fee
 
 - id: event_speaker
-  translation: Event Speakers
+  translation: Organizers 
 
 - id: more_event
   translation: More Events
@@ -80,13 +80,13 @@
   translation: Enter your email…
 
 - id: company
-  translation: company
+  translation: Main 
 
 - id: links
-  translation: links
+  translation: More 
 
 - id: courses
-  translation: Courses
+  translation: Programs 
 
 - id: new_notice
   translation: new notice
@@ -104,7 +104,7 @@
   translation: SUMMARY OF ACTIVITIES/INTERESTS
 
 - id: our_teachers
-  translation: Our Teachers
+  translation: Coaches
 
 - id: download
-  translation: Download
+  translation: More Info 

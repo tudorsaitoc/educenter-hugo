@@ -4,81 +4,85 @@ disqusShortname = ""
 paginate = "6"
 summaryLength = "10"
 theme = "educenter-hugo"
-title = "Fencing Development Academy at Texas"
+title = "DevelopFencing"
 [Languages.en]
 contentDir = "content/english"
-copyright = "Copyright &copy; 2020 by Tudor Saitoc"
+copyright = "Copyright &copy; 2020"
 home = "Home"
 languageCode = "en-us"
 languageName = "En"
 weight = "1"
 [Languages.fr]
 contentDir = "content/french"
-copyright = "Copyright &copy; 2020 by Tudor Saitoc"
+# copyright = "Copyright &copy; 2020 by Tudor Saitoc"
 home = "Accueil"
 languageCode = "fr-fr"
 languageName = "Fr"
 weight = 2
-[[menu.footer]]
-URL = "teacher"
-name = "Team"
-[[menu.footer]]
-URL = "notice"
-name = "notice"
-[[menu.footer]]
-URL = "event"
-name = "event"
-[[menu.footer]]
-URL = "scholarship"
-name = "scholarship"
-[[menu.footer]]
-URL = "research"
-name = "research"
+# [[menu.footer]]
+# URL = "teacher"
+# name = "Team"
+# [[menu.footer]]
+# URL = "notice"
+# name = "notice"
+# [[menu.footer]]
+# URL = "event"
+# name = "Events"
+# [[menu.footer]]
+# URL = "scholarship"
+# name = "scholarship"
+# [[menu.footer]]
+# URL = "research"
+# name = "research"
 [[menu.main]]
 URL = "about"
 name = "About"
 weight = 1
 [[menu.main]]
-URL = "course"
-name = "course"
-weight = 2
-[[menu.main]]
-URL = "teacher"
-name = "Team"
-parent = "Pages"
-[[menu.main]]
-URL = "notice"
-name = "notice"
-parent = "Pages"
-[[menu.main]]
 URL = "event"
-name = "event"
-parent = "Pages"
+name = "Events"
+weight = 2
+# [[menu.main]]
+# URL = "course"
+# name = "course"
+# weight = 2
+# [[menu.main]]
+# URL = "teacher"
+# name = "Team"
+# parent = "More"
+# [[menu.main]]
+# URL = "notice"
+# name = "notice"
+# parent = "More"
+# [[menu.main]]
+# URL = "scholarship"
+# name = "scholarship"
+# parent = "Pages"
+# [[menu.main]]
+# URL = "research"
+# name = "research"
+# parent = "Pages"
 [[menu.main]]
-URL = "scholarship"
-name = "scholarship"
-parent = "Pages"
-[[menu.main]]
-URL = "research"
-name = "research"
-parent = "Pages"
+URL = "faq"
+name = "FAQ"
+weight = 3
 [[menu.main]]
 URL = "blog"
-name = "blog"
+name = "Blog"
 weight = 4
 [[menu.main]]
 URL = "contact"
 name = "Contact"
 weight = 5
 [params]
-address = "807 W Lynn St APT 220"
-author = "Tudor Saitoc"
+#address = "807 W Lynn St APT 220"
+#author = "Tudor Saitoc"
 contact_form_action = "#"
 description = "DevelopFencing"
 email = "developfencing@gmail.com"
 google_analitycs_id = ""
 logo = "images/logoXX.png"
-mobile = "631.559.6551"
+mobile = "512.665.0686"
 social = []
 top_header = true
 [params.map]
