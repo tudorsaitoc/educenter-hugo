@@ -18,22 +18,22 @@ apply_url : "https://askfred.net/Events/Prereg/prereg.php?tournament_id=46154"
 speaker:
   # speaker loop
   - name : "John Moreau"
-    image : "images/tmp/john-moreau-boss.jpg"
+    image : "images/tmp/jm.png"
     designation : "Host"
 
   # speaker loop
   - name : "Oscar Barrera"
-    image : "images/tmp/oscarb.jpg"
+    image : "images/tmp/ob.png"
     designation : "SOTXDIV Representative"
 
   # speaker loop
   - name : "Gary Vanderwege"
-    image : "images/tmp/garyvcrop.jpg"
+    image : "images/tmp/gv.jpg"
     designation : "Referee Observation"
 
   # speaker loop
-  - name : "Derrek White & Tudor Saitoc"
-    image : "images/tmp/dt.jpeg"
+  - name : "Derrek White"
+    image : "images/tmp/dw.png"
     designation : "Organizers"
 
 # type
